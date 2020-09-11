@@ -65,7 +65,7 @@ var config = {
 3. Extract distribution package to the folder of your choice.
 4. Assuming Prosody has been configured using "Manual configuration for Prosody" 'jicofo' run script should be executed with following arguments:
 ```
-    ./jicofo.sh --domain=jitsi.exmaple.com --secret=focus_secret --user_domain=auth.jitsi.example.com --user_name=focus --user_password=focuspassword
+    ./jicofo.sh --domain=jitsi.example.com --secret=focus_secret --user_domain=auth.jitsi.example.com --user_name=focus --user_password=focuspassword
 ```
 
 ## Run arguments descripton
